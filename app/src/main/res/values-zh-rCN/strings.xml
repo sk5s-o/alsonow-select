@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright (c) 2018 Hai Zhang <dreaming.in.code.zh@gmail.com>
+  ~ All Rights Reserved.
+  -->
+
+<resources>
+
+    <!-- android.R.string.app_not_found -->
+    <string name="activity_not_found">找不到可處理此操作的應用程式</string>
+
+    <string name="app_name">alsonow select</string>
+
+    <string name="web_search_title">Alsonow!</string>
+
+    <string name="settings_title">設定</string>
+    <string name="settings_search_engine_title">搜尋引擎</string>
+    <string name="settings_search_engine_summary">%1$s</string>
+    <string-array name="settings_search_engine_entries">
+        <item>Google</item>
+        <item>必應</item>
+        <item>Yahoo</item>
+        <item>百度</item>
+        <item>Yandex</item>
+        <item>DuckDuckGo</item>
+        <item>搜狗</item>
+        <item>360</item>
+        <item>自定義</item>
+    </string-array>
+    <string name="settings_custom_search_engine_url_format_title">自定義搜尋引擎URL</string>
+    <string name="settings_custom_search_engine_url_format_summary">%1$s</string>
+    <string name="settings_use_custom_tabs_title">使用 Custom Tabs</string>
+    <string name="settings_use_custom_tabs_summary">可使體驗更加流暢</string>
+    <string name="settings_open_url_title">打開網頁連結</string>
+    <string name="settings_open_url_summary">如果搜尋文字是一個網頁連結，則直接打開該連結</string>
+</resources>

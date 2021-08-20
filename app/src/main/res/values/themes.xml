@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright (c) 2018 Hai Zhang <dreaming.in.code.zh@gmail.com>
+  ~ All Rights Reserved.
+  -->
+
+<resources>
+
+    <style name="Theme.DeviceDefault.DayNight" parent="android:Theme.DeviceDefault.Light">
+        <item name="isLightTheme">true</item>
+    </style>
+
+    <style name="Platform.V23.Theme.App" parent="Theme.DeviceDefault.DayNight">
+        <item name="android:colorPrimary">?android:colorBackground</item>
+        <item name="android:colorPrimaryDark">?android:colorPrimary</item>
+        <item name="android:windowLightStatusBar">?isLightTheme</item>
+    </style>
+    <style name="Platform.Theme.App" parent="Platform.V23.Theme.App" />
+    <style name="Base.Theme.App" parent="Platform.Theme.App" />
+    <style name="Theme.App" parent="Base.Theme.App" />
+
+    <style name="Platform.V23.Theme.App.NoDisplay" parent="android:Theme.NoDisplay">
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+    <style name="Platform.Theme.App.NoDisplay" parent="Platform.V23.Theme.App.NoDisplay" />
+    <style name="Base.Theme.App.NoDisplay" parent="Platform.Theme.App.NoDisplay" />
+    <style name="Theme.App.NoDisplay" parent="Base.Theme.App.NoDisplay" />
+</resources>
