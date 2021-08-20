@@ -1,8 +1,8 @@
 # alsonow-select(Select Text to Search)
 
-Add web search to text selection toolbar on Android. Forked in 2021 from zhanghai / TextSelectionWebSearch 
+## Add web search to text selection toolbar on Android. Forked in 2021 from zhanghai / TextSelectionWebSearch 
 
-[![Android CI status](https://github.com/zhanghai/TextSelectionWebSearch/workflows/Android%20CI/badge.svg)](https://github.com/zhanghai/TextSelectionWebSearch/actions) [![GitHub release](https://img.shields.io/github/v/release/zhanghai/TextSelectionWebSearch)](https://github.com/zhanghai/TextSelectionWebSearch/releases) [![License](https://img.shields.io/github/license/zhanghai/TextSelectionWebSearch?color=blue)](LICENSE)
+[![Android CI status](https://github.com/sk5s/alsonow-select/workflows/Android%20CI/badge.svg)](https://github.com/sk5s/alsonow-select/actions) [![GitHub release](https://img.shields.io/github/v/release/sk5s/alsonow-select)](https://github.com/sk5s/alsonow-select/releases) [![License](https://img.shields.io/github/license/sk5s/alsonow-select?color=blue)](LICENSE)
 
 ![Select Text to Search](app/src/main/res/mipmap-xxxhdpi/launcher_icon.png)
 
@@ -14,17 +14,13 @@ The default search engine can be configured in its settings page, openable in Cu
 
 Text selection toolbar requires Android 6.0 or above, so this app requires it as well.
 
-[<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="240">](https://play.google.com/store/apps/details?id=me.zhanghai.android.textselectionwebsearch) [<img alt="Get it on F-Droid" src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" width="240">](https://f-droid.org/packages/me.zhanghai.android.textselectionwebsearch)
-
-[Get it on Coolapk](https://www.coolapk.com/apk/me.zhanghai.android.textselectionwebsearch) [Get the APK](https://github.com/zhanghai/TextSelectionWebSearch/releases/latest/download/app-release.apk)
-
 ## Preview
 
 <p><img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="32%" /> <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="32%" /> <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="32%" /></p>
 
 ## License
 
-    Copyright (C) 2018 Hai Zhang
+    Copyright (C) 2021 samko5sam
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
