@@ -2,6 +2,8 @@
 
 ## Add web search to text selection toolbar on Android. Forked in 2021 from zhanghai / TextSelectionWebSearch 
 
+## not ready
+
 [![Android CI status](https://github.com/sk5s/alsonow-select/workflows/Android%20CI/badge.svg)](https://github.com/sk5s/alsonow-select/actions) [![GitHub release](https://img.shields.io/github/v/release/sk5s/alsonow-select)](https://github.com/sk5s/alsonow-select/releases) [![License](https://img.shields.io/github/license/sk5s/alsonow-select?color=blue)](LICENSE)
 
 ![Select Text to Search](app/src/main/res/mipmap-xxxhdpi/launcher_icon.png)
